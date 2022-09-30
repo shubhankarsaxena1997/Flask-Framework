@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad044dc9-fcef-4ef5-a462-c09891712825" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Flask Framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/fontawesome-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/breakpoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/browser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/jquery.scrollex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/jquery.scrolly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/base/_page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/base/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_actions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_contact-method.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_spotlights.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_table.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_tiles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/layout/_banner.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/layout/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/layout/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/layout/_menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/noscript.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pic04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pic05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pic06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pic07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pic08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pic09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pic10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pic11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day 54-exercise/.idea/day 54-exercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator functyion  day-54/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator functyion  day-54/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FS6r3OEmZnNIX92LZoS0MbgHHr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/cedcoss/PycharmProjects/Flask Framework/My personal site project"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/static/image" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/css" />
+      <recent name="$PROJECT_DIR$/static/image" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="My personal site project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad044dc9-fcef-4ef5-a462-c09891712825" name="Changes" comment="" />
+      <created>1664473333693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664473333693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
